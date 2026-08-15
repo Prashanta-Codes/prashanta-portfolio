@@ -1,0 +1,11 @@
+{
+  "name": "prashanta-nayak-portfolio",
+  "version": "1.0.0",
+  "description": "Full-Stack Portfolio Website for Prashanta Nayak (React + Node.js/Express)",
+  "scripts": {
+    "start": "node server/index.js",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  }
+}
